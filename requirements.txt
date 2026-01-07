@@ -1,0 +1,17 @@
+langgraph
+langchain
+langchain-openai
+langchain-google-genai
+langchain-community
+pydantic
+psycopg2-binary
+python-dotenv
+sqlparse
+pytest
+black
+ruff
+fastapi
+uvicorn
+slowapi
+python-multipart
+
