@@ -2,6 +2,8 @@
 
 **Transform natural language questions into safe, executable SQL queries using AI**
 
+<img src = "https://www.mhuzaifa.com/_next/image?url=https%3A%2F%2Fpub-dad81fab22374f8d9876aa00f95e9802.r2.dev%2FPortfolio%2FAI-SQL-Agent.webp">
+
 [![Python 3.12+](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
